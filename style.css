@@ -101,3 +101,13 @@ h1 {
     font-weight: <weight>;
     font-style: italic;
 }
+
+.END0 {
+    background-color: rgb(233, 29, 22);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
+
+
