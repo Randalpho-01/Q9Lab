@@ -1,0 +1,103 @@
+h1 {
+    color: rgb(232, 230, 237);
+    font-size: 100%;
+}
+.Q9intro {
+    background-color: rgba(188, 205, 10.5);
+   font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.Tech1 {
+    background-color: rgb(11, 205, 63);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
+
+.button1 {
+    color: rgb(88, 158, 219);
+}
+.img1 {
+    align-content: center;
+    height: 300px;
+    width: 100%;
+}
+
+.img2 {
+    height: 300px;
+}
+.Link1 {
+    background-color: rgb(203, 154, 236);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
+.pics {
+    display: grid;
+    background-color: aliceblue;
+    pad: 50px;
+    grid-template-columns: auto auto auto;
+    gap: 4px 5px;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.img3 {
+    border: solid black 20px;
+    padding: 9px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Contact1 {
+    background-color: rgb(22, 233, 29);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
+.SM1 {
+    background-color: rgb(68, 22, 233);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
+.info1 {
+    background-color: rgb(9, 219, 40);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+}
