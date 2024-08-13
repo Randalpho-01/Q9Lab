@@ -1,0 +1,34 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q9Laboratory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: rgb(0, 1, 0);">
+    <img class="img1" src="q9Pics/company logo.jpg" alt="Q9Lab">
+
+    <h3 title="About dj T Tech"
+style="font-size: medium; text-align: center; color: aliceblue;">About Dj T Tech</h3>
+    <img class="img2" src="q9Pics/djing online pic.jpeg" alt="q9Pics">
+
+   <script>
+
+function About(p1, p2, p3, p4) {
+    return p1 -(p2 * p3);
+}
+
+document.getElementById("About").innerHTML=Home(13, 94, 76, 42);
+
+   </script> 
+
+    <button onclick="document.getElementById('About').innerHTML=Date()">About</button>
+<p id="About"><p class="Tech1">DJ T-TECH, also known as Ruh Bwoi, is a Jamaican music producer, recording artist, and CEO of Fam Pros, Touch Base Productions, and 09Lab. With a passion for trick DJ-ing and a talent for recording, mixing, and mastering exclusive tracks, he has become a prominent figure in the Q9 NY Hip Hop community. His unique style of synthesizer music has earned him recognition as a key player in the industry. Despite growing up in Kingston Jamaica, DJ T-TECH has stayed focused on his goals and has accomplished much in his career. Let's take a closer look at the life and achievements of this talented artist.
+</p>
+<br>
+<button>
+<a href="index.html" style="color: rgb(250, 0, 0);">Back to Home Page</a></button>
+
+    
+</body>
+</html>
